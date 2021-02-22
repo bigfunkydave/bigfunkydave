@@ -1,0 +1,9 @@
+body{background-color: #2b93f7;}
+h1{text-align: center; color: #52fc0e}
+li{cursor: pointer; display: inline-block; color: #52fc0e}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ cursor: pointer;
+}
